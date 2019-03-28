@@ -1,2 +1,2 @@
 # ISP
-This repertory contains some code of ISP algorithm.
+Some code of ISP algorithm.
